@@ -184,11 +184,11 @@ Clase           :B
 | VLAN 70        | 10.7.0.0         | 255.255.0.0         | 10.7.255.255          | 10.7.0.1 - 10.7.255.254         |
 
 ### Descripción de la Tabla:
-Subred: Indica el nombre de la VLAN correspondiente.
-Dirección de Red: La dirección base de la subred.
-Máscara de Subred: Indica cuántos bits están reservados para la red.
-Dirección de Broadcast: La dirección utilizada para enviar paquetes a todos los hosts en la subred.
-Direcciones Utilizables: Rango de direcciones IP que pueden asignarse a los dispositivos.
+- **Subred**: Indica el nombre de la VLAN correspondiente.
+- **Dirección de Red**: La dirección base de la subred.
+- **Máscara de Subred**: Indica cuántos bits están reservados para la red.
+- **Dirección de Broadcast**: La dirección utilizada para enviar paquetes a todos los hosts en la subred.
+- **Direcciones Utilizables**: Rango de direcciones IP que pueden asignarse a los dispositivos.
 ### Conclusión
 El subneteo es una técnica fundamental en la configuración de redes, ya que permite dividir
 una red en subredes más pequeñas, lo que mejora la seguridad, la gestión y la eficiencia del uso de direcciones IP.
